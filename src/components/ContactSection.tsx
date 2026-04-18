@@ -42,7 +42,7 @@ const ContactSection = () => {
               </div>
             </div>
             <div className="mt-8 p-6 rounded-xl bg-accent/50 border border-primary/20">
-              <p className="font-semibold text-accent-foreground mb-2">🚀 Currently Building: AsthmaGuard</p>
+              <p className="font-semibold text-accent-foreground mb-2">🚀 Currently Building: OFAS</p>
               <p className="text-sm text-muted-foreground">We're actively developing a comprehensive asthma patient management platform for a health agency. Interested in similar solutions? Let's talk.</p>
             </div>
           </div>
